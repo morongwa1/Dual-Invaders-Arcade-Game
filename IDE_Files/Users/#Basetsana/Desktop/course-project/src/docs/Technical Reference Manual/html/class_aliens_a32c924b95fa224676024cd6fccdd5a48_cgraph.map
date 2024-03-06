@@ -1,0 +1,6 @@
+<map id="Aliens::Aliens" name="Aliens::Aliens">
+<area shape="rect" id="node1" title="Constructor." alt="" coords="5,56,108,83"/>
+<area shape="rect" id="node2" href="$class_aliens.html#aaf39dc03b56c1034d5d9acf84d4417b8" title="Used to set the direction of the alien for movement." alt="" coords="162,5,297,32"/>
+<area shape="rect" id="node3" href="$class_aliens.html#a94489865ca2a67a4910ed210bb896e82" title="Used to set the orientation of the alien to up or down depending on the army it belongs to." alt="" coords="156,56,303,83"/>
+<area shape="rect" id="node4" href="$class_aliens.html#ad4149dd1644135a2ca392d286afc949f" title="Responsible for setting the position of the alien." alt="" coords="164,107,295,133"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="Weapon.h" name="Weapon.h">
+<area shape="rect" id="node1" title="This class is responsible for creating bullet objects It loads the bullet objects in a vector It is u..." alt="" coords="131,5,212,32"/>
+<area shape="rect" id="node2" href="$_bullet_8h.html" title=" " alt="" coords="53,80,119,107"/>
+<area shape="rect" id="node6" title=" " alt="" coords="143,80,199,107"/>
+<area shape="rect" id="node7" title=" " alt="" coords="223,80,293,107"/>
+<area shape="rect" id="node3" href="$_entity_8h.html" title="Abstract base class, an abstraction of all game objects Consits of pure virtual functions." alt="" coords="89,155,155,181"/>
+<area shape="rect" id="node4" href="$_constants_8h.html" title="Exception class which is thrown when the image cannot be found." alt="" coords="5,229,97,256"/>
+<area shape="rect" id="node5" title=" " alt="" coords="67,304,118,331"/>
+</map>

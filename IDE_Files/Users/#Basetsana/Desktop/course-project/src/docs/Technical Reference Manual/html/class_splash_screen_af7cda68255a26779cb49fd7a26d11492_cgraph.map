@@ -1,0 +1,10 @@
+<map id="SplashScreen::SplashScreen" name="SplashScreen::SplashScreen">
+<area shape="rect" id="node1" title="Constructor." alt="" coords="5,157,197,184"/>
+<area shape="rect" id="node2" href="$class_splash_screen.html#a74af1c786a39047d5595dd74fb4ebcf2" title="Responsible for creating the information text of the author." alt="" coords="259,5,470,32"/>
+<area shape="rect" id="node3" href="$class_splash_screen.html#a9e971e6de70143215e98300d3ba1d181" title="Responsible for creating the Background text of the splash screen." alt="" coords="257,56,473,83"/>
+<area shape="rect" id="node4" href="$class_splash_screen.html#aeaa2badb21bcce713cc2969c88b7aeb6" title="Responsible for creating game controls to play or exit the game." alt="" coords="267,107,463,133"/>
+<area shape="rect" id="node5" href="$class_splash_screen.html#aad02802f66c2fb4e461615e32351e218" title="Responsible for creating the Heading text of the splash screen." alt="" coords="255,157,474,184"/>
+<area shape="rect" id="node6" href="$class_splash_screen.html#a5ab4d8edfff89989a69b23dd6de60861" title="Responsible for creating the Instructions text of the splash screen." alt="" coords="245,208,484,235"/>
+<area shape="rect" id="node7" href="$class_splash_screen.html#a86d08fe91cf06b13e5b02a4b60e36d64" title="Responsible for creating the information text of player2 on the splash screen." alt="" coords="269,259,460,301"/>
+<area shape="rect" id="node8" href="$class_splash_screen.html#a7bbb075dfed6754fc5976d7f8739b0c6" title="Responsible for creating the information text of player1 on the splash screen." alt="" coords="273,325,457,366"/>
+</map>

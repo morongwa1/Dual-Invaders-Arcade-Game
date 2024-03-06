@@ -1,0 +1,21 @@
+<map id="Entity.h" name="Entity.h">
+<area shape="rect" id="node1" title="Abstract base class, an abstraction of all game objects Consits of pure virtual functions." alt="" coords="357,5,424,32"/>
+<area shape="rect" id="node2" href="$_bullet_8h.html" title=" " alt="" coords="203,80,269,107"/>
+<area shape="rect" id="node3" href="$_aliens_8h.html" title="This class inherits from Entity It is responsible for loading all the game objects." alt="" coords="59,229,128,256"/>
+<area shape="rect" id="node5" href="$_object_loader_8h.html" title=" " alt="" coords="181,304,291,331"/>
+<area shape="rect" id="node11" href="$_collision_handler_8h.html" title="This class inherits from Entity It is responsible for handling all the collisions that occur between ..." alt="" coords="403,379,530,405"/>
+<area shape="rect" id="node15" href="$_player_8h.html" title=" " alt="" coords="291,229,362,256"/>
+<area shape="rect" id="node19" href="$_entity_8cpp.html" title=" " alt="" coords="505,80,586,107"/>
+<area shape="rect" id="node14" href="$_weapon_8h.html" title="This class is responsible for creating bullet objects It loads the bullet objects in a vector It is u..." alt="" coords="195,155,277,181"/>
+<area shape="rect" id="node18" href="$_bullet_8cpp.html" title=" " alt="" coords="91,155,171,181"/>
+<area shape="rect" id="node4" href="$_aliens_8cpp.html" title=" " alt="" coords="52,304,135,331"/>
+<area shape="rect" id="node6" href="$_game_logic_8h.html" title=" " alt="" coords="228,453,327,480"/>
+<area shape="rect" id="node7" href="$game_screen_8h.html" title="This class responsible for displaying the game screen with all the game objects." alt="" coords="113,528,220,555"/>
+<area shape="rect" id="node13" href="$_object_loader_8cpp.html" title=" " alt="" coords="255,379,379,405"/>
+<area shape="rect" id="node10" href="$_game_logic_8cpp.html" title=" " alt="" coords="245,528,358,555"/>
+<area shape="rect" id="node8" href="$dual__invaders__main_8cpp.html" title=" " alt="" coords="5,603,165,629"/>
+<area shape="rect" id="node9" href="$game_screen_8cpp.html" title=" " alt="" coords="189,603,309,629"/>
+<area shape="rect" id="node12" href="$_collision_handler_8cpp.html" title=" " alt="" coords="397,453,537,480"/>
+<area shape="rect" id="node17" href="$_weapon_8cpp.html" title=" " alt="" coords="173,229,267,256"/>
+<area shape="rect" id="node16" href="$_player_8cpp.html" title=" " alt="" coords="315,304,399,331"/>
+</map>

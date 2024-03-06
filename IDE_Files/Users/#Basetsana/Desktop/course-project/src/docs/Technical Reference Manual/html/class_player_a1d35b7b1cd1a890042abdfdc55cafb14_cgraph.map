@@ -1,0 +1,8 @@
+<map id="Player::move" name="Player::move">
+<area shape="rect" id="node1" title="Used to move the player objects." alt="" coords="5,107,103,133"/>
+<area shape="rect" id="node2" href="$class_player.html#a0c082a39764e0aea1e2c3ef5710a4380" title="Used to get the direction of the player." alt="" coords="157,5,293,32"/>
+<area shape="rect" id="node3" href="$class_player.html#a8e368ac22441ba854dc459eac83425f4" title="Used to get the position of the player." alt="" coords="159,56,291,83"/>
+<area shape="rect" id="node4" href="$class_player.html#a17cc6047e41332a53fc591906b21e47a" title="Used to set the direction of the player for movement." alt="" coords="157,107,293,133"/>
+<area shape="rect" id="node5" href="$class_player.html#ae3407702a75b8e7d022fc6d7acc5b27a" title="Used to set the orientation of the player to up or down depending on the which player it is." alt="" coords="151,157,299,184"/>
+<area shape="rect" id="node6" href="$class_player.html#aaa7317fbb9547b0262857f0e71563433" title="Used to set the position of the player." alt="" coords="159,208,291,235"/>
+</map>

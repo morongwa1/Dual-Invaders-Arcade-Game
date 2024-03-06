@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="elen3009-project-2019" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="../src/executables/elen3009-project" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-std=c++1z" />
+					<Add option="-g" />
+					<Add option="-std=gnu++17" />
+					<Add option="-DSFML_STATIC" />
+					<Add directory="C:/SFML-2.5.0/include" />
+					<Add directory="../src/game-source-code" />
+					<Add directory="../src/executables/resources" />
+					<Add directory="src/game-source-code" />
+				</Compiler>
+				<Linker>
+					<Add library="sfml-graphics" />
+					<Add library="sfml-window" />
+					<Add library="sfml-audio" />
+					<Add library="sfml-network" />
+					<Add library="sfml-system" />
+					<Add directory="C:/SFML-2.5.0/lib" />
+				</Linker>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/elen3009-project-2018" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="src/game-source-code" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Unit filename="../src/game-source-code/Aliens.cpp" />
+		<Unit filename="../src/game-source-code/Aliens.h" />
+		<Unit filename="../src/game-source-code/Bullet.cpp" />
+		<Unit filename="../src/game-source-code/Bullet.h" />
+		<Unit filename="../src/game-source-code/CollisionHandler.cpp" />
+		<Unit filename="../src/game-source-code/CollisionHandler.h" />
+		<Unit filename="../src/game-source-code/Constants.h" />
+		<Unit filename="../src/game-source-code/Entity.cpp" />
+		<Unit filename="../src/game-source-code/Entity.h" />
+		<Unit filename="../src/game-source-code/EventsHandler.cpp" />
+		<Unit filename="../src/game-source-code/EventsHandler.h" />
+		<Unit filename="../src/game-source-code/GameLogic.cpp" />
+		<Unit filename="../src/game-source-code/GameLogic.h" />
+		<Unit filename="../src/game-source-code/GameOverScreen.cpp" />
+		<Unit filename="../src/game-source-code/GameOverScreen.h" />
+		<Unit filename="../src/game-source-code/ObjectLoader.cpp" />
+		<Unit filename="../src/game-source-code/ObjectLoader.h" />
+		<Unit filename="../src/game-source-code/Player.cpp" />
+		<Unit filename="../src/game-source-code/Player.h" />
+		<Unit filename="../src/game-source-code/Screen.cpp" />
+		<Unit filename="../src/game-source-code/Screen.h" />
+		<Unit filename="../src/game-source-code/SplashScreen.cpp" />
+		<Unit filename="../src/game-source-code/SplashScreen.h" />
+		<Unit filename="../src/game-source-code/SpriteCreator.cpp" />
+		<Unit filename="../src/game-source-code/SpriteCreator.h" />
+		<Unit filename="../src/game-source-code/StopWatch.cpp" />
+		<Unit filename="../src/game-source-code/StopWatch.h" />
+		<Unit filename="../src/game-source-code/Weapon.cpp" />
+		<Unit filename="../src/game-source-code/Weapon.h" />
+		<Unit filename="../src/game-source-code/YouWonScreen.cpp" />
+		<Unit filename="../src/game-source-code/YouWonScreen.h" />
+		<Unit filename="../src/game-source-code/dual_invaders_main.cpp" />
+		<Unit filename="../src/game-source-code/gameScreen.cpp" />
+		<Unit filename="../src/game-source-code/gameScreen.h" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+			<DoxyBlocks>
+				<comment_style block="0" line="0" />
+				<doxyfile_project output_directory="Users\#Basetsana\Desktop\course-project\src\docs\Technical Reference Manual" />
+				<doxyfile_build extract_all="1" />
+				<doxyfile_warnings />
+				<doxyfile_output />
+				<doxyfile_dot class_diagrams="1" have_dot="1" />
+				<general use_at_in_tags="1" />
+			</DoxyBlocks>
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

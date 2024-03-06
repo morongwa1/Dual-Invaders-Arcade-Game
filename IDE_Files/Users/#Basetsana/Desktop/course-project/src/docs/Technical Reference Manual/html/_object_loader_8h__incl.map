@@ -1,0 +1,14 @@
+<map id="ObjectLoader.h" name="ObjectLoader.h">
+<area shape="rect" id="node1" title=" " alt="" coords="636,5,747,32"/>
+<area shape="rect" id="node2" href="$_constants_8h.html" title="Exception class which is thrown when the image cannot be found." alt="" coords="229,379,321,405"/>
+<area shape="rect" id="node4" href="$_entity_8h.html" title="Abstract base class, an abstraction of all game objects Consits of pure virtual functions." alt="" coords="122,304,189,331"/>
+<area shape="rect" id="node5" href="$_player_8h.html" title=" " alt="" coords="261,80,332,107"/>
+<area shape="rect" id="node8" title=" " alt="" coords="421,229,477,256"/>
+<area shape="rect" id="node9" title=" " alt="" coords="547,229,617,256"/>
+<area shape="rect" id="node11" href="$_aliens_8h.html" title="This class inherits from Entity It is responsible for loading all the game objects." alt="" coords="546,80,615,107"/>
+<area shape="rect" id="node3" title=" " alt="" coords="202,453,253,480"/>
+<area shape="rect" id="node6" href="$_weapon_8h.html" title="This class is responsible for creating bullet objects It loads the bullet objects in a vector It is u..." alt="" coords="385,155,467,181"/>
+<area shape="rect" id="node7" href="$_bullet_8h.html" title=" " alt="" coords="263,229,330,256"/>
+<area shape="rect" id="node10" title=" " alt="" coords="41,155,107,181"/>
+<area shape="rect" id="node12" title=" " alt="" coords="643,155,715,181"/>
+</map>

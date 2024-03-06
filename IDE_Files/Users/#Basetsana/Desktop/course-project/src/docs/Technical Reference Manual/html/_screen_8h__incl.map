@@ -1,0 +1,6 @@
+<map id="Screen.h" name="Screen.h">
+<area shape="rect" id="node1" title="This class is responsible for creating the screen." alt="" coords="43,5,118,32"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,80,60,107"/>
+<area shape="rect" id="node3" href="$_constants_8h.html" title="Exception class which is thrown when the image cannot be found." alt="" coords="84,80,176,107"/>
+<area shape="rect" id="node4" title=" " alt="" coords="105,155,155,181"/>
+</map>

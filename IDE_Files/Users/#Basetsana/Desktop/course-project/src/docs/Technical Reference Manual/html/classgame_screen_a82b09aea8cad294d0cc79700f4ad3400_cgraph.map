@@ -1,0 +1,4 @@
+<map id="gameScreen::checkGameOver" name="gameScreen::checkGameOver">
+<area shape="rect" id="node1" title="Responsible for checking is the game is over." alt="" coords="5,13,204,39"/>
+<area shape="rect" id="node2" href="$classgame_screen.html#a286e8e4d624fef764b2e70f07e97d2d7" title="Responsible for drawing the game over screen." alt="" coords="252,5,443,47"/>
+</map>

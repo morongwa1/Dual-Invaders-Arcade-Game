@@ -1,0 +1,4 @@
+<map id="Player::fireWeapon" name="Player::fireWeapon">
+<area shape="rect" id="node1" title="Used by player objects to load a weapon and shoot." alt="" coords="5,5,137,32"/>
+<area shape="rect" id="node2" href="$class_weapon.html#a593f7fcca898ae12717abc3dff483789" title="Used to creat bullet objects and load them into a shared pointer." alt="" coords="185,5,280,32"/>
+</map>

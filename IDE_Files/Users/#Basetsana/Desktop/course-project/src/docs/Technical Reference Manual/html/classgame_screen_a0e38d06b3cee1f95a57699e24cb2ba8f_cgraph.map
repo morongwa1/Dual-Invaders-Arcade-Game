@@ -1,0 +1,6 @@
+<map id="gameScreen::gameScreen" name="gameScreen::gameScreen">
+<area shape="rect" id="node1" title="Constructor, creates a game screen object." alt="" coords="5,56,181,83"/>
+<area shape="rect" id="node2" href="$class_screen.html#a239aa0f79c59bad1e891d643f6bd31a7" title="Returns the height of the screen." alt="" coords="229,5,336,32"/>
+<area shape="rect" id="node3" href="$class_screen.html#a7ca2840797df2500a1530dc7febb142f" title="Returns the title of the game." alt="" coords="237,56,329,83"/>
+<area shape="rect" id="node4" href="$class_screen.html#a32caea46259768468a50c372d13db713" title="Returns the width of the screen." alt="" coords="232,107,333,133"/>
+</map>

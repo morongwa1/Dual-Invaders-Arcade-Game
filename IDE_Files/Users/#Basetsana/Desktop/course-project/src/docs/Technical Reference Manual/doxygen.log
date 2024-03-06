@@ -1,0 +1,28 @@
+C:/Users/#Basetsana/Desktop/course-project/src/game-source-code/YouWonScreen.cpp:13: warning: documented symbol 'void YouWonScreen::createWonText' was not declared or defined.
+C:/Users/#Basetsana/Desktop/course-project/src/game-source-code/Aliens.h:52: warning: argument 'orientation' of command @param is not found in the argument list of Aliens::getDirection() const
+C:/Users/#Basetsana/Desktop/course-project/src/game-source-code/Aliens.h:52: warning: argument 'rowNum' of command @param is not found in the argument list of Aliens::getDirection() const
+C:/Users/#Basetsana/Desktop/course-project/src/game-source-code/Bullet.h:92: warning: argument 'orientation' of command @param is not found in the argument list of Bullet::setOrientation(Direction dir)
+C:/Users/#Basetsana/Desktop/course-project/src/game-source-code/Bullet.h:98: warning: The following parameters of Bullet::setOrientation(Direction dir) are not documented:
+  parameter 'dir'
+C:/Users/#Basetsana/Desktop/course-project/src/game-source-code/CollisionHandler.h:102: warning: argument 'entity1' of command @param is not found in the argument list of CollisionHandler::~CollisionHandler()
+C:/Users/#Basetsana/Desktop/course-project/src/game-source-code/CollisionHandler.h:102: warning: argument 'entity2' of command @param is not found in the argument list of CollisionHandler::~CollisionHandler()
+C:/Users/#Basetsana/Desktop/course-project/src/game-source-code/EventsHandler.h:27: warning: argument 'A' of command @param is not found in the argument list of EventsHandler::pollEvents(shared_ptr< sf::RenderWindow > &window)
+C:/Users/#Basetsana/Desktop/course-project/src/game-source-code/EventsHandler.h:32: warning: The following parameters of EventsHandler::pollEvents(shared_ptr< sf::RenderWindow > &window) are not documented:
+  parameter 'window'
+C:/Users/#Basetsana/Desktop/course-project/src/game-source-code/Player.h:66: warning: argument 'The' of command @param is not found in the argument list of Player::getPosition() const
+C:/Users/#Basetsana/Desktop/course-project/src/game-source-code/Screen.h:19: warning: argument 'Width' of command @param is not found in the argument list of Screen::Screen(float width, float height, string title)
+C:/Users/#Basetsana/Desktop/course-project/src/game-source-code/Screen.h:19: warning: argument 'Height' of command @param is not found in the argument list of Screen::Screen(float width, float height, string title)
+C:/Users/#Basetsana/Desktop/course-project/src/game-source-code/Screen.h:19: warning: argument 'Title' of command @param is not found in the argument list of Screen::Screen(float width, float height, string title)
+C:/Users/#Basetsana/Desktop/course-project/src/game-source-code/Screen.h:26: warning: The following parameters of Screen::Screen(float width, float height, string title) are not documented:
+  parameter 'width'
+  parameter 'height'
+  parameter 'title'
+C:/Users/#Basetsana/Desktop/course-project/src/game-source-code/SplashScreen.h:29: warning: argument 'Shared' of command @param is not found in the argument list of SplashScreen::createSplash(std::shared_ptr< sf::RenderWindow > &windowPtr)
+C:/Users/#Basetsana/Desktop/course-project/src/game-source-code/SplashScreen.h:34: warning: The following parameters of SplashScreen::createSplash(std::shared_ptr< sf::RenderWindow > &windowPtr) are not documented:
+  parameter 'windowPtr'
+C:/Users/#Basetsana/Desktop/course-project/src/game-source-code/Weapon.h:31: warning: argument 'Position' of command @param is not found in the argument list of Weapon::fire(Coordinates position, Direction orientation, ObjectID objID=ObjectID::BULLET)
+C:/Users/#Basetsana/Desktop/course-project/src/game-source-code/Weapon.h:39: warning: The following parameters of Weapon::fire(Coordinates position, Direction orientation, ObjectID objID=ObjectID::BULLET) are not documented:
+  parameter 'position'
+C:/Users/#Basetsana/Desktop/course-project/src/game-source-code/YouWonScreen.h:30: warning: argument 'shared' of command @param is not found in the argument list of YouWonScreen::createYouWonText(std::shared_ptr< sf::RenderWindow > &windowPtr)
+C:/Users/#Basetsana/Desktop/course-project/src/game-source-code/YouWonScreen.h:35: warning: The following parameters of YouWonScreen::createYouWonText(std::shared_ptr< sf::RenderWindow > &windowPtr) are not documented:
+  parameter 'windowPtr'

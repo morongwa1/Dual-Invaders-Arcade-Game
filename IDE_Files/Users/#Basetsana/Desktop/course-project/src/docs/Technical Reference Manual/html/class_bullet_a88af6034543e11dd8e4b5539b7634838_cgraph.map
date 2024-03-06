@@ -1,0 +1,7 @@
+<map id="Bullet::move" name="Bullet::move">
+<area shape="rect" id="node1" title="Moves the bullet objects." alt="" coords="5,81,99,108"/>
+<area shape="rect" id="node2" href="$class_bullet.html#af41843fcf97ad6cf0634b0c3e97213c8" title="destroys an object once it has no lives left" alt="" coords="179,5,259,32"/>
+<area shape="rect" id="node3" href="$class_bullet.html#a3f7a33c6ba2989a08be8fdc5d0d3b13f" title="Returns the orientation of the object." alt="" coords="147,56,291,83"/>
+<area shape="rect" id="node4" href="$class_bullet.html#a15b17803d65a57a94c9121ce438ed020" title="Get the position of the object." alt="" coords="155,107,283,133"/>
+<area shape="rect" id="node5" href="$class_bullet.html#ac05cf931b2c1f6e5f8db1c617a8631a5" title="Set the position of the object." alt="" coords="155,157,283,184"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="Player::Player" name="Player::Player">
+<area shape="rect" id="node1" title="Constructor." alt="" coords="5,31,109,57"/>
+<area shape="rect" id="node2" href="$class_player.html#ae3407702a75b8e7d022fc6d7acc5b27a" title="Used to set the orientation of the player to up or down depending on the which player it is." alt="" coords="157,5,305,32"/>
+<area shape="rect" id="node3" href="$class_player.html#aaa7317fbb9547b0262857f0e71563433" title="Used to set the position of the player." alt="" coords="165,56,297,83"/>
+</map>

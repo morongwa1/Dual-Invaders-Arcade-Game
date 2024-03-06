@@ -1,0 +1,6 @@
+<map id="SpriteCreator::SpriteCreator" name="SpriteCreator::SpriteCreator">
+<area shape="rect" id="node1" title="Constructor." alt="" coords="5,31,188,57"/>
+<area shape="rect" id="node2" href="$class_sprite_creator.html#ac635ec00db9e6b371069c7144082be3a" title="Used to load all textures and spritesS." alt="" coords="236,31,395,57"/>
+<area shape="rect" id="node3" href="$class_sprite_creator.html#a8290451ae6ed07aa4e50e70303cad8ca" title="Used to load Images used in the game." alt="" coords="443,5,615,32"/>
+<area shape="rect" id="node4" href="$class_sprite_creator.html#a126e3c12ffe99dc0c0f918f099004f40" title="Used to load Sprite used in the game." alt="" coords="443,56,614,83"/>
+</map>

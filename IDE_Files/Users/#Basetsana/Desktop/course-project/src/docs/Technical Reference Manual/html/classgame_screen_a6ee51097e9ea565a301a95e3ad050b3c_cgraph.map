@@ -1,0 +1,12 @@
+<map id="gameScreen::runScreen" name="gameScreen::runScreen">
+<area shape="rect" id="node1" title="Responsible for running the screen." alt="" coords="5,173,168,199"/>
+<area shape="rect" id="node2" href="$classgame_screen.html#afa0a24f0a1d854a00bf66231ba5a83fa" title="Responsible for binding the game objects to sprites." alt="" coords="232,5,411,47"/>
+<area shape="rect" id="node4" href="$classgame_screen.html#a82b09aea8cad294d0cc79700f4ad3400" title="Responsible for checking is the game is over." alt="" coords="222,71,421,98"/>
+<area shape="rect" id="node6" href="$classgame_screen.html#a7a4d104a0d1adf38ad074b8d61ffe443" title="Responsible for clearing the screen." alt="" coords="235,122,407,149"/>
+<area shape="rect" id="node7" href="$classgame_screen.html#ad79e4ea407c68ba75d850e97fcd96879" title="Used to display the game screen." alt="" coords="229,173,414,199"/>
+<area shape="rect" id="node8" href="$classgame_screen.html#a2028df1ca54500ef81db2ec349cbd4a5" title="Responsible for drawing the splash screen." alt="" coords="216,223,427,250"/>
+<area shape="rect" id="node9" href="$classgame_screen.html#a57c0429d7d0920285da6caa6ab15b91d" title="Responsible for checking whether the screen is open." alt="" coords="229,274,414,301"/>
+<area shape="rect" id="node10" href="$classgame_screen.html#a40c939bf494f96548b6c798d63ba09a5" title="Responsible for running the game logic." alt="" coords="228,325,415,351"/>
+<area shape="rect" id="node3" href="$classgame_screen.html#ae047e0f67be758524b3f88a6c25d5ac2" title="Responsible for drawing the you won screen." alt="" coords="475,13,696,39"/>
+<area shape="rect" id="node5" href="$classgame_screen.html#a286e8e4d624fef764b2e70f07e97d2d7" title="Responsible for drawing the game over screen." alt="" coords="490,64,681,105"/>
+</map>

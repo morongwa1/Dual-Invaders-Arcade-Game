@@ -1,0 +1,12 @@
+<map id="CollisionHandler::checkCollisions" name="CollisionHandler::checkCollisions">
+<area shape="rect" id="node1" title="Responsible for checking all object collisions." alt="" coords="5,242,220,269"/>
+<area shape="rect" id="node2" href="$class_collision_handler.html#af681348bcba4d71aa348d5c42d2d29b9" title="Checks for a collision between two entities if its a alien missle and player bullet." alt="" coords="276,5,463,47"/>
+<area shape="rect" id="node4" href="$class_collision_handler.html#a773e1addf7d1473e3b9c2b1e27a08659" title="Checks for a collision between two entities if its a alien missle and player2 bullet." alt="" coords="276,71,463,112"/>
+<area shape="rect" id="node5" href="$class_collision_handler.html#ac896138b0eb3b246d7270c681e837be5" title="Checks for a collision between two entities if its a player and a bullet." alt="" coords="276,136,463,177"/>
+<area shape="rect" id="node6" href="$class_collision_handler.html#ad4a2fb1c5b591ff64664ebbe80476cb1" title="Checks for a collision between two entities if its a alien missle and player1 bullet." alt="" coords="268,201,471,243"/>
+<area shape="rect" id="node7" href="$class_collision_handler.html#a0bcca0dd7961d6f643dac609bc90a247" title="Checks for a collision between two entities if its a player1 bullet and player2 bullet." alt="" coords="268,267,471,308"/>
+<area shape="rect" id="node8" href="$class_collision_handler.html#ad6a9c24677eaf0ff31604539b40cefa5" title="Checks for a collision between two entities if its a player and alien." alt="" coords="272,332,467,373"/>
+<area shape="rect" id="node9" href="$class_collision_handler.html#acd82f29562a28dbc0c76b08dc0ada2e5" title="Checks for a collision between two entities if its a player and alien bullet." alt="" coords="272,397,467,439"/>
+<area shape="rect" id="node10" href="$class_collision_handler.html#aa456ffc4736a20a0736bb2bb6c2f79f5" title="Checks for a collision between two entities if its a player1 and player2 bullet." alt="" coords="272,463,467,504"/>
+<area shape="rect" id="node3" href="$class_collision_handler.html#aa15923636c19d15ae248d260b7b59ea9" title="Uses the distance formula to calculate the distance between two entities." alt="" coords="519,235,693,276"/>
+</map>

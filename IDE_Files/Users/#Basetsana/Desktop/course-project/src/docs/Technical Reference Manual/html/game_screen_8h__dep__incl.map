@@ -1,0 +1,5 @@
+<map id="gameScreen.h" name="gameScreen.h">
+<area shape="rect" id="node1" title="This class responsible for displaying the game screen with all the game objects." alt="" coords="113,5,220,32"/>
+<area shape="rect" id="node2" href="$dual__invaders__main_8cpp.html" title=" " alt="" coords="5,80,165,107"/>
+<area shape="rect" id="node3" href="$game_screen_8cpp.html" title=" " alt="" coords="189,80,309,107"/>
+</map>

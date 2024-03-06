@@ -1,0 +1,4 @@
+<map id="Bullet" name="Bullet">
+<area shape="rect" id="node1" title="This class is responsible for creating bullet objects It inherits from entity and consists of overrid..." alt="" coords="6,80,61,107"/>
+<area shape="rect" id="node2" href="$class_entity.html" title=" " alt="" coords="5,5,61,32"/>
+</map>

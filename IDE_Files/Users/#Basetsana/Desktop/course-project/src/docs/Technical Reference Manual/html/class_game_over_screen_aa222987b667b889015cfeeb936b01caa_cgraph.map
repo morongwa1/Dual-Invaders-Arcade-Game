@@ -1,0 +1,5 @@
+<map id="GameOverScreen::GameOverScreen" name="GameOverScreen::GameOverScreen">
+<area shape="rect" id="node1" title="Constructor loads the game over text font." alt="" coords="5,35,199,76"/>
+<area shape="rect" id="node2" href="$class_game_over_screen.html#add6354f758295e47df750057c7be1921" title="Responsible for creating the game over text." alt="" coords="256,5,456,47"/>
+<area shape="rect" id="node3" href="$class_game_over_screen.html#a1fbea017d274c08647c1b51c6dd9be71" title="responsible for creating the help text" alt="" coords="247,71,465,98"/>
+</map>

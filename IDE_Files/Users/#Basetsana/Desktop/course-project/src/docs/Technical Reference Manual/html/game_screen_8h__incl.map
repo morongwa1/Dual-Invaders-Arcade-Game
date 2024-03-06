@@ -1,0 +1,30 @@
+<map id="gameScreen.h" name="gameScreen.h">
+<area shape="rect" id="node1" title="This class responsible for displaying the game screen with all the game objects." alt="" coords="1707,5,1813,32"/>
+<area shape="rect" id="node2" href="$_constants_8h.html" title="Exception class which is thrown when the image cannot be found." alt="" coords="861,603,953,629"/>
+<area shape="rect" id="node4" title=" " alt="" coords="1437,453,1576,480"/>
+<area shape="rect" id="node5" href="$_sprite_creator_8h.html" title="This class is responsible for creating the game sprites." alt="" coords="848,379,957,405"/>
+<area shape="rect" id="node6" title=" " alt="" coords="1112,453,1181,480"/>
+<area shape="rect" id="node9" href="$_object_loader_8h.html" title=" " alt="" coords="553,229,663,256"/>
+<area shape="rect" id="node16" href="$_game_logic_8h.html" title=" " alt="" coords="1197,80,1296,107"/>
+<area shape="rect" id="node19" title=" " alt="" coords="1642,155,1697,181"/>
+<area shape="rect" id="node24" href="$_splash_screen_8h.html" title=" " alt="" coords="1427,379,1541,405"/>
+<area shape="rect" id="node25" href="$_game_over_screen_8h.html" title="This class is responsible for displaying the game over screen." alt="" coords="1617,379,1751,405"/>
+<area shape="rect" id="node26" href="$_you_won_screen_8h.html" title="This class responsible for creating and drawing the you won screen." alt="" coords="1775,379,1899,405"/>
+<area shape="rect" id="node27" href="$_screen_8h.html" title="This class is responsible for creating the screen." alt="" coords="1975,80,2049,107"/>
+<area shape="rect" id="node28" title=" " alt="" coords="2055,155,2110,181"/>
+<area shape="rect" id="node3" title=" " alt="" coords="691,677,741,704"/>
+<area shape="rect" id="node7" title=" " alt="" coords="168,453,224,480"/>
+<area shape="rect" id="node8" title=" " alt="" coords="797,453,869,480"/>
+<area shape="rect" id="node10" href="$_entity_8h.html" title="Abstract base class, an abstraction of all game objects Consits of pure virtual functions." alt="" coords="195,528,261,555"/>
+<area shape="rect" id="node11" href="$_player_8h.html" title=" " alt="" coords="314,304,385,331"/>
+<area shape="rect" id="node15" href="$_aliens_8h.html" title="This class inherits from Entity It is responsible for loading all the game objects." alt="" coords="573,304,643,331"/>
+<area shape="rect" id="node12" href="$_weapon_8h.html" title="This class is responsible for creating bullet objects It loads the bullet objects in a vector It is u..." alt="" coords="438,379,519,405"/>
+<area shape="rect" id="node13" href="$_bullet_8h.html" title=" " alt="" coords="445,453,512,480"/>
+<area shape="rect" id="node14" title=" " alt="" coords="195,379,261,405"/>
+<area shape="rect" id="node17" title=" " alt="" coords="931,229,989,256"/>
+<area shape="rect" id="node18" title=" " alt="" coords="1335,155,1395,181"/>
+<area shape="rect" id="node20" title=" " alt="" coords="1420,155,1495,181"/>
+<area shape="rect" id="node21" href="$_events_handler_8h.html" title="This class is responsible for handling all the events that take place." alt="" coords="1286,379,1402,405"/>
+<area shape="rect" id="node22" href="$_stop_watch_8h.html" title=" " alt="" coords="1519,155,1617,181"/>
+<area shape="rect" id="node23" href="$_collision_handler_8h.html" title="This class inherits from Entity It is responsible for handling all the collisions that occur between ..." alt="" coords="829,155,955,181"/>
+</map>

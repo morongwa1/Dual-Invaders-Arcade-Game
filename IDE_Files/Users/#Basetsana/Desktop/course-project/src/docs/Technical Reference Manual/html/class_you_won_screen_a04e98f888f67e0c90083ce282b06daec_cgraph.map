@@ -1,0 +1,4 @@
+<map id="YouWonScreen::YouWonScreen" name="YouWonScreen::YouWonScreen">
+<area shape="rect" id="node1" title="Constructor." alt="" coords="5,5,217,32"/>
+<area shape="rect" id="node2" href="$class_you_won_screen.html#a7601ad6d0034f0eb01779bf38a95052f" title="Responsible for creating the game exit text." alt="" coords="265,5,471,32"/>
+</map>

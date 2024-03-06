@@ -1,0 +1,5 @@
+<map id="Entity.h" name="Entity.h">
+<area shape="rect" id="node1" title="Abstract base class, an abstraction of all game objects Consits of pure virtual functions." alt="" coords="59,5,126,32"/>
+<area shape="rect" id="node2" href="$_constants_8h.html" title="Exception class which is thrown when the image cannot be found." alt="" coords="5,80,97,107"/>
+<area shape="rect" id="node3" title=" " alt="" coords="67,155,118,181"/>
+</map>

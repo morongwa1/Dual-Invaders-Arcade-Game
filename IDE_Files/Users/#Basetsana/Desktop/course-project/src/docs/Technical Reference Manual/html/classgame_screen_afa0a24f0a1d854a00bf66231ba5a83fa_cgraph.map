@@ -1,0 +1,4 @@
+<map id="gameScreen::bindOjectsToSprites" name="gameScreen::bindOjectsToSprites">
+<area shape="rect" id="node1" title="Responsible for binding the game objects to sprites." alt="" coords="5,5,184,47"/>
+<area shape="rect" id="node2" href="$classgame_screen.html#ae047e0f67be758524b3f88a6c25d5ac2" title="Responsible for drawing the you won screen." alt="" coords="232,13,453,39"/>
+</map>

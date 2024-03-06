@@ -1,0 +1,4 @@
+<map id="CollisionHandler::checkPlayerAlienBulletCollision" name="CollisionHandler::checkPlayerAlienBulletCollision">
+<area shape="rect" id="node1" title="Checks for a collision between two entities if its a player and alien." alt="" coords="5,5,200,47"/>
+<area shape="rect" id="node2" href="$class_collision_handler.html#aa15923636c19d15ae248d260b7b59ea9" title="Uses the distance formula to calculate the distance between two entities." alt="" coords="248,5,423,47"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="Player.h" name="Player.h">
+<area shape="rect" id="node1" title=" " alt="" coords="310,5,381,32"/>
+<area shape="rect" id="node2" href="$_object_loader_8h.html" title=" " alt="" coords="230,80,341,107"/>
+<area shape="rect" id="node11" href="$_player_8cpp.html" title=" " alt="" coords="365,80,449,107"/>
+<area shape="rect" id="node3" href="$_game_logic_8h.html" title=" " alt="" coords="204,229,303,256"/>
+<area shape="rect" id="node4" href="$game_screen_8h.html" title="This class responsible for displaying the game screen with all the game objects." alt="" coords="113,304,220,331"/>
+<area shape="rect" id="node8" href="$_collision_handler_8h.html" title="This class inherits from Entity It is responsible for handling all the collisions that occur between ..." alt="" coords="273,155,399,181"/>
+<area shape="rect" id="node10" href="$_object_loader_8cpp.html" title=" " alt="" coords="423,155,547,181"/>
+<area shape="rect" id="node7" href="$_game_logic_8cpp.html" title=" " alt="" coords="245,304,358,331"/>
+<area shape="rect" id="node5" href="$dual__invaders__main_8cpp.html" title=" " alt="" coords="5,379,165,405"/>
+<area shape="rect" id="node6" href="$game_screen_8cpp.html" title=" " alt="" coords="189,379,309,405"/>
+<area shape="rect" id="node9" href="$_collision_handler_8cpp.html" title=" " alt="" coords="327,229,467,256"/>
+</map>

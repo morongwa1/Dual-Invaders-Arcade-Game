@@ -1,0 +1,4 @@
+<map id="ObjectLoader::ObjectLoader" name="ObjectLoader::ObjectLoader">
+<area shape="rect" id="node1" title="Constructor responsible for creating the game objects." alt="" coords="5,5,189,32"/>
+<area shape="rect" id="node2" href="$class_object_loader.html#a9a526608cd3d0e06baa3c506e5cd9135" title="Responsible for loading all the created objects in a shared pointer." alt="" coords="237,5,413,32"/>
+</map>

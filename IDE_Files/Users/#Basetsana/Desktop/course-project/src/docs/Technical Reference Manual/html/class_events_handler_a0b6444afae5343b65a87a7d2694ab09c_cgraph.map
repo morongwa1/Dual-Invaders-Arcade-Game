@@ -1,0 +1,4 @@
+<map id="EventsHandler::pollEvents" name="EventsHandler::pollEvents">
+<area shape="rect" id="node1" title="Determines which keys on the keyboard is pressed handles the event." alt="" coords="5,5,177,32"/>
+<area shape="rect" id="node2" href="$class_events_handler.html#af405b58b52c6dcc6ebd9b28b67fb8698" title="It checks which key was pressed and updates its status." alt="" coords="225,5,412,32"/>
+</map>

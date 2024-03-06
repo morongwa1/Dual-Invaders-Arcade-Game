@@ -1,0 +1,6 @@
+<map id="Bullet::Bullet" name="Bullet::Bullet">
+<area shape="rect" id="node1" title="Bullet constructor to create all bullet objects." alt="" coords="5,56,101,83"/>
+<area shape="rect" id="node2" href="$class_bullet.html#a09953b4324586492608b6dde15051ac6" title="Sets the direction of the bullet." alt="" coords="155,5,287,32"/>
+<area shape="rect" id="node3" href="$class_bullet.html#a4c904a4125fcaccba3a7495515826424" title="Used to set the orientation of the alien to up or down depending on the army it belongs to." alt="" coords="149,56,293,83"/>
+<area shape="rect" id="node4" href="$class_bullet.html#ac05cf931b2c1f6e5f8db1c617a8631a5" title="Set the position of the object." alt="" coords="157,107,285,133"/>
+</map>
